@@ -1,6 +1,7 @@
-animal = 'dog'
+var animal = 'dog'
 
 function myAnimal() {
+  myAnimal = animal
   return animal
 }
 

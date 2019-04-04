@@ -3,11 +3,11 @@ yourAnimal()
 function myAnimal() {
   return animal
 }
-yourAnimal()
+
 function yourAnimal() {
   return animal
 }
-yourAnimal()
+
 
 function add2(n) {
   const two = 2

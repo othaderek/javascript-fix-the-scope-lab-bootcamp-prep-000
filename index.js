@@ -4,10 +4,10 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal() {
+function yourAnimal(animal) {
   return animal
 }
-yourAnimal()
+yourAnimal("cat")
 function add2(n) {
   const two = 2
   return n + two

@@ -7,7 +7,7 @@ function myAnimal() {
 function yourAnimal(animal) {
   return animal
 }
-yourAnimal('cat')
+
 function add2(n) {
   const two = 2
   return n + two

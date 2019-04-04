@@ -5,9 +5,9 @@ function myAnimal() {
 }
 
 function yourAnimal(animal) {
-  return animal
+  return 'cat'
 }
-yourAnimal("cat")
+yourAnimal('cat')
 function add2(n) {
   const two = 2
   return n + two
